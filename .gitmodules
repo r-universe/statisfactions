@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "simpr"]
+	path = simpr
+	url = https://github.com/statisfactions/simpr
+	shallow = true
+	registered = true
