@@ -5,3 +5,6 @@
 [submodule "simpr"]
 	path = simpr
 	url = https://github.com/statisfactions/simpr
+[submodule "simpr.interaction"]
+	path = simpr.interaction
+	url = https://github.com/statisfactions/simpr.interaction
